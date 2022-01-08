@@ -2,8 +2,8 @@
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : ""
 name                     : "Your Name"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://clikgw.github.io/Test2/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://clikgw.github.io/Test2/"
+baseurl                  : ""

@@ -1,8 +1,7 @@
-# Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "test"
 title_separator          : "-"
-subtitle                 : ""
+subtitle                 : test
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://clikgw.github.io/Test2/"
